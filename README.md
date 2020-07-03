@@ -1,10 +1,10 @@
 # TWUserInfoCacheSwift
 
-[![CI Status](https://img.shields.io/travis/wangxufeng092@163.com/TWUserInfoCacheSwift.svg?style=flat)](https://travis-ci.org/wangxufeng092@163.com/TWUserInfoCacheSwift)
-[![Version](https://img.shields.io/cocoapods/v/TWUserInfoCacheSwift.svg?style=flat)](https://cocoapods.org/pods/TWUserInfoCacheSwift)
-[![License](https://img.shields.io/cocoapods/l/TWUserInfoCacheSwift.svg?style=flat)](https://cocoapods.org/pods/TWUserInfoCacheSwift)
-[![Platform](https://img.shields.io/cocoapods/p/TWUserInfoCacheSwift.svg?style=flat)](https://cocoapods.org/pods/TWUserInfoCacheSwift)
-
+[![CI Status](https://img.shields.io/travis/wangxufeng092@163.com/TWUserInfoCacheSwift.svg?style=flat)](https://github.com/TiltWang/TWUserInfoCacheSwift)
+[![Version](https://img.shields.io/cocoapods/v/TWUserInfoCacheSwift.svg?style=flat)](https://github.com/TiltWang/TWUserInfoCacheSwift)
+[![License](https://img.shields.io/cocoapods/l/TWUserInfoCacheSwift.svg?style=flat)](https://github.com/TiltWang/TWUserInfoCacheSwift)
+[![Platform](https://img.shields.io/cocoapods/p/TWUserInfoCacheSwift.svg?style=flat)](https://github.com/TiltWang/TWUserInfoCacheSwift)
+//
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +22,7 @@ pod 'TWUserInfoCacheSwift'
 
 ## Author
 
-wangxufeng092@163.com, wangxufeng65180@offcn.com
+tiltwang
 
 ## License
 
