@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TWUserInfoCacheSwift_Example' do
+  pod 'TWUserInfoCacheSwift', :path => '../'
+
+  target 'TWUserInfoCacheSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

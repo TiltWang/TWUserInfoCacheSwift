@@ -1,0 +1,22 @@
+{
+  "name": "TWUserInfoCacheSwift",
+  "version": "0.1.0",
+  "summary": "A short description of TWUserInfoCacheSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangxufeng092@163.com/TWUserInfoCacheSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tiltwang": "wangxufeng092@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wangxufeng092@163.com/TWUserInfoCacheSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Example/TWUserInfoCacheSwift/Classes/**/*"
+}

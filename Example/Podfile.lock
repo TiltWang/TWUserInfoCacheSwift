@@ -1,0 +1,16 @@
+PODS:
+  - TWUserInfoCacheSwift (0.1.0)
+
+DEPENDENCIES:
+  - TWUserInfoCacheSwift (from `../`)
+
+EXTERNAL SOURCES:
+  TWUserInfoCacheSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TWUserInfoCacheSwift: 8efac9c4fc85f9dddc66cf6b04e1c5de3cb487c7
+
+PODFILE CHECKSUM: cfd6c02ad5bdb2a426114bcdc92e0154f3cc0382
+
+COCOAPODS: 1.9.2
